@@ -1,4 +1,4 @@
-package reversestring;
+package _01reversestring;
 
 public class ReverseString {
 
